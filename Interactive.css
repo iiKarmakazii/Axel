@@ -1,0 +1,49 @@
+.LoreBox {
+    width: 100% !important;
+    background: #d1af91;
+    border: 1px solid #000!important;
+    
+    padding: 20px;
+    
+    border-radius: 0px;
+    min-height: 375px !important;
+    color: #230d04 !important;
+}
+.LoreIMG img {
+    position: relative;
+    object-fit:cover;
+    left: 0px;
+    height: 250px;
+    width: 70%;
+}
+.LoreBox .LoreBoxText {
+    text-align: left;
+    color: #1b1108;
+
+}
+.LoreBox .DororoIMG {
+    float: left;
+    width:40%;
+}
+.LoreBox .button1{
+    text-align: center !important;
+    margin-top: 1px;
+        border-radius: 6px;
+    padding-left: 0px;
+    padding-right: 8px; 
+   
+}
+.LoreBox .button2{
+    text-align: center !important;
+    margin-top: 20px;
+
+}
+.button1 a {
+    background: #b3957b;
+    color: #fff;
+    padding: 5px;
+    top: 10px;
+    Border: 2px solid #000;
+    border-radius: 1px;
+    padding-left: 8px;
+    padding-right: 8px;}
